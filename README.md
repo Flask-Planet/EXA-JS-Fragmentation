@@ -3,7 +3,7 @@
 
 Contains a working example of the JS fragmentation method
 
-![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/cc_zero.svg)
+![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/by.svg)
 
 ### Attribution
 
