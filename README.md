@@ -1,7 +1,7 @@
-# FAS-3-Application-Factory
-(FAS, Flask App Structure)
+# EXA-JS-Fragmentation
+(EXA, Example)
 
-Contains a working example of a package Flask App
+Contains a working example of the JS fragmentation method
 
 ![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/cc_zero.svg)
 
