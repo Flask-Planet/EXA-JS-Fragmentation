@@ -1,14 +1,13 @@
 # EXA-JS-Fragmentation
+
 (EXA, Example)
 
 Contains a working example of the JS fragmentation method
 
-![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/by.svg)
-
 ---
 **WARNING**
 
-The code in this example uses the `.innerHTML` property of the DOM to set the HTML of the page. 
+The code in this example uses the `.innerHTML` property of the DOM to set the HTML of the page.
 This is a potential security risk if you do not use the correct sanitization methods.
 
 Any input data that the user submits that will then be used to generate a fragmented template
@@ -17,11 +16,15 @@ should be sanitized server side.
 If you do not sanitize the input data, you are opening yourself up to XSS attacks!
 
 ---
-
-
 ### Attribution
 
 [CheeseCake87 (David Carmichael)](https://github.com/CheeseCake87)
+
+### License
+
+See: [LICENSE](LICENSE)
+
+Viewing the source code of this project acknowledges that you have read and understood the license.
 
 ### Setup
 
@@ -63,7 +66,9 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
 python3 run.py
 ```
@@ -71,7 +76,6 @@ python3 run.py
 ---
 
 ### Windows
-
 
 **Create a virtual environment and activate it.**
 
@@ -94,7 +98,9 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
 python run.py
 ```
